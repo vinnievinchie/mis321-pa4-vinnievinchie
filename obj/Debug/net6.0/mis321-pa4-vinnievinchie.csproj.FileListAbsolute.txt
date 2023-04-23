@@ -1,0 +1,15 @@
+C:\Users\vkagw\OneDrive\mis321\mis321-pa4-vinnievinchie\bin\Debug\net6.0\mis321-pa4-vinnievinchie.exe
+C:\Users\vkagw\OneDrive\mis321\mis321-pa4-vinnievinchie\bin\Debug\net6.0\mis321-pa4-vinnievinchie.deps.json
+C:\Users\vkagw\OneDrive\mis321\mis321-pa4-vinnievinchie\bin\Debug\net6.0\mis321-pa4-vinnievinchie.runtimeconfig.json
+C:\Users\vkagw\OneDrive\mis321\mis321-pa4-vinnievinchie\bin\Debug\net6.0\mis321-pa4-vinnievinchie.dll
+C:\Users\vkagw\OneDrive\mis321\mis321-pa4-vinnievinchie\bin\Debug\net6.0\mis321-pa4-vinnievinchie.pdb
+C:\Users\vkagw\OneDrive\mis321\mis321-pa4-vinnievinchie\obj\Debug\net6.0\mis321-pa4-vinnievinchie.csproj.AssemblyReference.cache
+C:\Users\vkagw\OneDrive\mis321\mis321-pa4-vinnievinchie\obj\Debug\net6.0\mis321-pa4-vinnievinchie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkagw\OneDrive\mis321\mis321-pa4-vinnievinchie\obj\Debug\net6.0\mis321-pa4-vinnievinchie.AssemblyInfoInputs.cache
+C:\Users\vkagw\OneDrive\mis321\mis321-pa4-vinnievinchie\obj\Debug\net6.0\mis321-pa4-vinnievinchie.AssemblyInfo.cs
+C:\Users\vkagw\OneDrive\mis321\mis321-pa4-vinnievinchie\obj\Debug\net6.0\mis321-pa4-vinnievinchie.csproj.CoreCompileInputs.cache
+C:\Users\vkagw\OneDrive\mis321\mis321-pa4-vinnievinchie\obj\Debug\net6.0\mis321-pa4-vinnievinchie.dll
+C:\Users\vkagw\OneDrive\mis321\mis321-pa4-vinnievinchie\obj\Debug\net6.0\refint\mis321-pa4-vinnievinchie.dll
+C:\Users\vkagw\OneDrive\mis321\mis321-pa4-vinnievinchie\obj\Debug\net6.0\mis321-pa4-vinnievinchie.pdb
+C:\Users\vkagw\OneDrive\mis321\mis321-pa4-vinnievinchie\obj\Debug\net6.0\mis321-pa4-vinnievinchie.genruntimeconfig.cache
+C:\Users\vkagw\OneDrive\mis321\mis321-pa4-vinnievinchie\obj\Debug\net6.0\ref\mis321-pa4-vinnievinchie.dll
